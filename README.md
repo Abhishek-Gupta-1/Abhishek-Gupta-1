@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br>🔭I'm Full Stack Web Developer <br>🧑‍🤝‍🧑 I'm looking to collaborate on a new Startup<br>🌱I'm currently leraning  Solidity <br>💭 Talks about Startup.<br>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<br>🔭I'm Full Stack Web Developer <br>🧑‍🤝‍🧑 I'm looking to collaborate on a Startup<br>🌱I'm currently learning  Solidity <br>💭 Talks about Startup.<br>
 
 
 ## 🌐 Socials:
@@ -17,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-Gupta-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=The.problem-is-not-the-choice-The-problem-is-excellence)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-Gupta-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -25,8 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhishek-Gupta-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/Abhishek-Gupta-1) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Abhishek-Gupta
+# Abhishek-Gupta
