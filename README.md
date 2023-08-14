@@ -49,4 +49,10 @@
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The-problem-is-not-the-choice-The-problem-is-excellence)
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48" alt="Loading your acitivity..." class="mt-4 hide-reduced-motion">
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48" alt="Loading your acitivity..." class="mt-4 hide-reduced-motion">
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48" alt="Loading your acitivity..." class="mt-4 hide-reduced-motion">
+
+
+
 
