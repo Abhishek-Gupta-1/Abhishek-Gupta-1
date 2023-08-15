@@ -11,7 +11,7 @@
 💭 Talks about Startup.<br>
 📫 How to reach me: <a href="mailto:abhisheknew2023@gmail.com">abhisheknew2023@gmail.com</a>
 <br>
-📝 Checkout my <a href="mailto:abhisheknew2023@gmail.com">Resume</a>
+📝 Checkout my <a href="https://github.com/Abhishek-Gupta-1/Abhishek-Gupta-1/blob/main/Resume.pdf">Resume</a>
 
 
 ## 🌐 Socials:
