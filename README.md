@@ -5,7 +5,13 @@
 
 # 💫 About Me:
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<br>🔭I'm Full Stack Web Developer <br>🧑‍🤝‍🧑 I'm looking to collaborate on a Startup<br>🌱I'm currently learning  Machine Learning <br>💭 Talks about Startup.<br>
+<br>🔭I'm Full Stack Web Developer <br>
+🧑‍🤝‍🧑 I'm looking to collaborate on a Startup<br>
+🌱I'm currently learning  Machine Learning <br>
+💭 Talks about Startup.<br>
+📫 How to reach me: <a href="mailto:abhisheknew2023@gmail.com">abhisheknew2023@gmail.com</a>
+<br>
+📝 Checkout my [Resume](/Resume.pdf). <br>
 
 
 ## 🌐 Socials:
@@ -46,6 +52,32 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Gupta-1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Gupta-1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <br>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Abhishek-Gupta-1)
+</details>
+
+<details>	
+  <summary><b>🏆 Github Trophies</b></summary>
+  <br />
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-Gupta-1)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
+
+<br>
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The-problem-is-not-the-choice-The-problem-is-excellence)
