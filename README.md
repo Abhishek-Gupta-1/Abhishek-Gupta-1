@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<br>🔭I'm Full Stack Web Developer <br>🧑‍🤝‍🧑 I'm looking to collaborate on a Startup<br>🌱I'm currently learning  Solidity <br>💭 Talks about Startup.<br>
+<br>🔭I'm Full Stack Web Developer <br>🧑‍🤝‍🧑 I'm looking to collaborate on a Startup<br>🌱I'm currently learning  Machine Learning <br>💭 Talks about Startup.<br>
 
 
 ## 🌐 Socials:
