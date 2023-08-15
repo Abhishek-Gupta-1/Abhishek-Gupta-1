@@ -75,9 +75,6 @@
 </details>
 <br>
 
-## Open Source Contribution 
-<a href="https://github.com/Abhishek-Gupta-1?tab=overview&org=timechainlabs&from=2023-01-01&to=2023-12-31"> @TimeChain_Labs </a>
-
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The-problem-is-not-the-choice-The-problem-is-excellence)
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48" alt="Loading your acitivity..." class="mt-4 hide-reduced-motion">
