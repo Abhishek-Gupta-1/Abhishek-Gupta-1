@@ -9,7 +9,7 @@
 🧑‍🤝‍🧑 I'm looking to collaborate on a Startup<br>
 🌱I'm currently learning  Machine Learning <br>
 💭 Talks about Startup <br>
-📫 How to reach me: <a href="mailto:abhisheknew2023@gmail.com">abhisheknew2023@gmail.com</a>
+📫 Reach me at : <a href="mailto:abhisheknew2023@gmail.com">abhisheknew2023@gmail.com</a>
 <br>
 📝 Checkout my <a href="https://github.com/Abhishek-Gupta-1/Abhishek-Gupta-1/blob/main/Resume.pdf">Resume</a>
 
