@@ -55,8 +55,9 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Gupta-1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Gupta-1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Gupta-1&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Gupta-1&theme=radical&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <br>
 </details>
 
@@ -64,14 +65,14 @@
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
   
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Abhishek-Gupta-1)
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Abhishek-Gupta-1&theme=radical)
 </details>
 
 <details>	
   <summary><b>🏆 Github Trophies</b></summary>
   <br />
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-Gupta-1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-Gupta-1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 <br>
 
