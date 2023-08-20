@@ -75,6 +75,10 @@
 </details>
 <br>
 
+[![Abhishek-Gupta-1's GitHub | Stats](https://stats.quine.sh/Abhishek-Gupta-1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhishek-Gupta-1)
+[![Abhishek-Gupta-1's GitHub | Languages Over Time](https://stats.quine.sh/Abhishek-Gupta-1/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhishek-Gupta-1)
+
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The-problem-is-not-the-choice-The-problem-is-excellence)
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48" alt="Loading your acitivity..." class="mt-4 hide-reduced-motion">
