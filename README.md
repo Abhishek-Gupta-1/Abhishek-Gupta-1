@@ -7,7 +7,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <br>🔭I'm a Full Stack Web Developer <br>
 🧑‍🤝‍🧑 I'm looking to collaborate on a Startup<br>
-🌱I'm currently learning  Machine Learning <br>
 💭 Talks about Startup <br>
 📫 Reach me at : <a href="mailto:abhisheknew2023@gmail.com">abhisheknew2023@gmail.com</a>
 <br>
